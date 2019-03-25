@@ -8,7 +8,6 @@ public class ArrayReverse {
 			System.out.print(a[i]+ " ");
 		}
 
-
 		System.out.println("\n------");
 
 		//reverses and displays the array reversed
